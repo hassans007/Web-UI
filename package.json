@@ -49,5 +49,5 @@
   "scripts": {
     "build": "vite build",
     "postbuild": "cp dist/index.html dist/404.html"
-  }
+  },
 }
